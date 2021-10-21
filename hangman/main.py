@@ -9,7 +9,7 @@ Si ingresa un numero o elem no valido dar error"""
 
 def elegir_palabra():
 
-    palabras = ['filet', 'aceite', 'auricular', 'frasco', 'murcielago', 'pokemon', 'cortina', 'hectoplasma', 'cagon', 'lagarta', 'libro', 'musica', 'trincheta', 'comida']
+    palabras = ['filet', 'aceite', 'auricular', 'frasco', 'murcielago', 'pokemon', 'cortina', 'hectoplasma', 'lagarta', 'libro', 'musica', 'trincheta', 'comida']
 
     palabra = random.choice(palabras)
 
